@@ -1,0 +1,21 @@
+:root {
+    font-family: Helvetica;
+    font-size: 14px;
+}
+/* * means ALL */
+* { 
+    font: inherit;
+}
+
+#meme-canvas {
+    width: 300px;
+}
+
+
+Body{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: serif;
+
+}
